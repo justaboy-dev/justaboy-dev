@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74774683/139843362-a65d3513-0700-47fc-9291-5e055e6e0b1d.gif" align="center" height="600" width="700" >
+<img src="https://user-images.githubusercontent.com/74774683/139845139-a6e5f487-5c87-4035-8d45-4afdafb3aa7a.gif" align="center" height="500" width="1000" >
 
 - 👋 Hi, I’m @justaboy-dev
 - 👀 I’m interested in many language
