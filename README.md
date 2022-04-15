@@ -1,12 +1,25 @@
 <img src="https://user-images.githubusercontent.com/74774683/139845139-a6e5f487-5c87-4035-8d45-4afdafb3aa7a.gif" align="center" height="500" width="1000" >
 
+### 👨‍💻: About Me :
 - 👋 Hi, I’m @justaboy-dev
 - 👀 I’m interested in many language
 - 🌱 I’m currently learning Dart, Firebase and many other things
 
+### 🛠️: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
-[<img src="https://user-images.githubusercontent.com/74774683/139841392-e92ebca4-1b29-4fc4-9e3a-6a854c15ab1d.png" align="left" height="50" width="50" >](https://flutter.dev/) [<img src="https://miro.medium.com/max/600/1*R4c8lHBHuH5qyqOtZb3h-w.png" align="left" height="50" width="50">](https://firebase.google.com/)[<img src="https://user-images.githubusercontent.com/74774683/143455693-cf38868c-4949-4e8b-91f8-108da559551d.png" align="left" height="50" width="120">](https://www.mongodb.com/)[<img src="https://nodejs.org/static/images/logo.svg" align="left" height="50" width="50">](https://nodejs.org/en/)
-<!---
-justaboy-dev/justaboy-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔥: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justaboy-dev&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justaboy-dev&layout=compact&theme=vision-friendly-dark)](https://github.com/justaboy-dev/github-readme-stats)
+
+
